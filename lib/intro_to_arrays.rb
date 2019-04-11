@@ -47,6 +47,6 @@ array[-1]
 end
 
 
-def length_of_array
-
+def length_of_array(length)
+  array.size
 end
