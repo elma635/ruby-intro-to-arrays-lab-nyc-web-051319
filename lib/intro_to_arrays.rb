@@ -44,9 +44,6 @@ array[-1]
 end
 
 
-
-
-
 def length_of_array
 
 end
