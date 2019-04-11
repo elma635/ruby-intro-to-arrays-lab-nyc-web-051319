@@ -30,7 +30,7 @@ def my_third_element(three)
  end
 
 def my_last_element(last)
-   array[-1]
+   last[-1]
 end
 
 def grocery
