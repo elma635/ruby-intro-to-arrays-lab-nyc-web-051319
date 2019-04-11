@@ -22,12 +22,12 @@ def my_first_element(array)
   array[1]
 end
 
-def my_third_element
- my_third_element(@vacation_house)
+def my_third_element(array)
+ array[3]
  end
 
-def my_last_element
-   my_last_element(@vacation_house)
+def my_last_element(array)
+   array[-1]
 end
 
 def
