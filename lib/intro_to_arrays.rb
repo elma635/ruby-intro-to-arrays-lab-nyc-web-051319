@@ -5,12 +5,12 @@ my_new_array = ["cat", "dog", "mice","spider"]
 end
 
 def returns_an_array_that_is_empty
-
+[]
 end
-my_new_array = [ ]
 
+def array_with_two_elements
 animals = ["lizard" , "bird"]
-return
+end
 
 @down_the_block = ["candy", "store"]
 
