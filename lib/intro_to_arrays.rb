@@ -24,7 +24,7 @@ def first_element(one)
 end
 
 def third_element(three)
- three[3]
+ three[2]
  end
 
 def last_element(last)
