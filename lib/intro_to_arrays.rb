@@ -1,6 +1,6 @@
 
 def instantiate_new_array
-  @my_new_array
+  @my_new_array = []
 end
 
 def creates_a_new_array_and_returns_it
