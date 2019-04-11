@@ -25,7 +25,7 @@ def first_element(one)
   one[0]
 end
 
-def my_third_element(three)
+def third_element(three)
  three[3]
  end
 
