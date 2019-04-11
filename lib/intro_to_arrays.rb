@@ -21,7 +21,7 @@ def vacation_house(array)
   @vacation_house = ["bbq", "beach","umbrella", "crabs"]
 end
 
-def my_first_element(one)
+def first_element(one)
   one[0]
 end
 
