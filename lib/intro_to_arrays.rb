@@ -18,7 +18,7 @@ def indexing
   @vacation_house = ["bbq", "beach","umbrella", "crabs"]
 end
 
-def my_first_element
+def my_first_element(array)
   my_first_element(@vacation_house)
 end
 
@@ -30,8 +30,9 @@ def my_last_element
    my_last_element(@vacation_house)
 end
 
-
+def
 @groceries = ["bread", "milk", "eggs", "meat"]
+end
 
 def first_element_with_array_methods
 
