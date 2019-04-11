@@ -15,7 +15,6 @@ def array_with_two_elements
 animals = ["lizard" , "bird"]
 end
 
-
 def vacation_house(array)
   @vacation_house = ["bbq", "beach","umbrella", "crabs"]
 end
