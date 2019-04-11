@@ -22,7 +22,7 @@ def indexing(array)
 end
 
 def my_first_element(one)
-  array[0]
+  one[0]
 end
 
 def my_third_element(three)
