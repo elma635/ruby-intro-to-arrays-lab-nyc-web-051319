@@ -17,7 +17,7 @@ end
 
 down_the_block = ["candy", "store"]
 
-def indexing
+def indexing(array)
   @vacation_house = ["bbq", "beach","umbrella", "crabs"]
 end
 
