@@ -1,2 +1,15 @@
 
-Array.new["cat", "dog", "mice","spider"]
+my_new_array = ["cat", "dog", "mice","spider"]
+
+
+
+
+
+
+
+
+
+
+
+
+
