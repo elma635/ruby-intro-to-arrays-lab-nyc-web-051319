@@ -14,9 +14,9 @@ end
 
 down_the_block = ["candy", "store"]
 
-def
+def indexing
   vacation_house = ["bbq", "beach","umbrella", "crabs"]
-end 
+end
 my_first_element = my_first_element(vacation_house)
 
 my_third_element = my_third_element(vacation_house)
