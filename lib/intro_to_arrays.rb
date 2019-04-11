@@ -32,3 +32,7 @@ end
 
 
 @groceries = ["bread", "milk", "eggs", "meat"]
+
+
+def length_of_array
+end
