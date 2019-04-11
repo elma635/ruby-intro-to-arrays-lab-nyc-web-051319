@@ -19,7 +19,7 @@ def indexing
 end
 
 def my_first_element(array)
-  my_first_element(@vacation_house)
+  array[1]
 end
 
 def my_third_element
