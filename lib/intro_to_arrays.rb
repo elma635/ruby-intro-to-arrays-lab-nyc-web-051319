@@ -21,15 +21,15 @@ def indexing(array)
   @vacation_house = ["bbq", "beach","umbrella", "crabs"]
 end
 
-def my_first_element(array)
+def my_first_element(one)
   array[0]
 end
 
-def my_third_element(array)
+def my_third_element(three)
  array[3]
  end
 
-def my_last_element(array)
+def my_last_element(last)
    array[-1]
 end
 
