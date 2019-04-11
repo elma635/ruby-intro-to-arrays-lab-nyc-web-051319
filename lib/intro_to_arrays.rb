@@ -29,7 +29,7 @@ def third_element(three)
  three[3]
  end
 
-def my_last_element(last)
+def last_element(last)
    last[-1]
 end
 
