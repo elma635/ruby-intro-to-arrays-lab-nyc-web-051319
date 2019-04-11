@@ -5,7 +5,9 @@ my_new_array = ["cat", "dog", "mice","spider"]
 
 my_new_array = [ ]
 
-my_new_array = ["lizard" , "bird"]
+@animals = ["lizard" , "bird"]
 return
 
-my_new_array = ["candy", "store"]
+@down_the_block = ["candy", "store"]
+
+@vacation_house = ["bbq", "beach"]
