@@ -30,18 +30,17 @@ def my_last_element(array)
    array[-1]
 end
 
-def
+def grocery
 @groceries = ["bread", "milk", "eggs", "meat"]
 end
 
-def first_element_with_array_methods
-
+def first_element_with_array_methods(array)
+array[0]
 end
 
-end
 
 def last_element_with_array_methods
-
+array[-1]
 end
 
 
