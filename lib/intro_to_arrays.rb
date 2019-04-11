@@ -2,6 +2,7 @@
 
 def creates_a_new_array_and_returns_it
 my_new_array = ["cat", "dog", "mice","spider"]
+end
 
 my_new_array = [ ]
 
