@@ -10,6 +10,8 @@ return
 
 @down_the_block = ["candy", "store"]
 
-@vacation_house = ["bbq", "beach"]
+@vacation_house = ["bbq", "beach","umbrella"]
 
 my_first_element = my_first_element(@vacation_house)
+
+my_third_element = my_third_element()
