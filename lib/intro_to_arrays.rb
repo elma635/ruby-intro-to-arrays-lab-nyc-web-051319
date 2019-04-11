@@ -26,7 +26,7 @@ def my_first_element(one)
 end
 
 def my_third_element(three)
- array[3]
+ three[3]
  end
 
 def my_last_element(last)
