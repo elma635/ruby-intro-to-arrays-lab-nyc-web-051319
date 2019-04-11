@@ -12,10 +12,11 @@ def array_with_two_elements
 animals = ["lizard" , "bird"]
 end
 
-@down_the_block = ["candy", "store"]
+down_the_block = ["candy", "store"]
 
-vacation_house = ["bbq", "beach","umbrella", "crabs"]
-
+def
+  vacation_house = ["bbq", "beach","umbrella", "crabs"]
+end 
 my_first_element = my_first_element(vacation_house)
 
 my_third_element = my_third_element(vacation_house)
