@@ -11,3 +11,5 @@ return
 @down_the_block = ["candy", "store"]
 
 @vacation_house = ["bbq", "beach"]
+
+my_first_element = my_first_element(@vacation_house)
