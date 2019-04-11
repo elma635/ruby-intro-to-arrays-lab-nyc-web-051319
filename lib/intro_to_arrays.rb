@@ -15,3 +15,5 @@ return
 my_first_element = my_first_element(@vacation_house)
 
 my_third_element = my_third_element(@vacation_house)
+
+
