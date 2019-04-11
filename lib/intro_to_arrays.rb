@@ -4,6 +4,9 @@ def creates_a_new_array_and_returns_it
 my_new_array = ["cat", "dog", "mice","spider"]
 end
 
+def returns_an_array_that_is_empty
+
+end
 my_new_array = [ ]
 
 animals = ["lizard" , "bird"]
